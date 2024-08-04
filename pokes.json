@@ -1,384 +1,928 @@
 [
   {
-    "name": "zangoose",
-    "image": "https://i.postimg.cc/YCKmD2RJ/received-6502799749812324.webp"
-  },
-  {
-    "name": "Diglett",
-    "image": "https://i.postimg.cc/7LkWtkQZ/received-829168035487690.webp"
-  },
-{
-    "name": "floetette",
-    "image": "https://i.postimg.cc/NMzhznHC/received-1240830833246391.webp"
-  },
-  {
     "name": "abra",
-    "image": "https://i.postimg.cc/GpLWKD2p/received-3418322918430783.webp"
+    "image": "https://i.imgur.com/zHcC3uU.jpeg"
   },
   {
     "name": "absol",
-    "image": "https://i.postimg.cc/zBwTfmJ3/received-932865967809800.webp"
+    "image": "https://i.ibb.co/Vp6k3dm/absol.png"
   },
   {
     "name": "accelgor",
-    "image": "https://i.postimg.cc/gJJQ3P0t/received-1918474705202625.webp"
+    "image": "https://i.ibb.co/4PjXB1d/accelgor.png"
   },
   {
     "name": "aegislash-shield",
-    "image": "https://i.postimg.cc/xTT5CPcg/received-620101360210116.webp"
+    "image": "https://i.ibb.co/tYQdfbM/aegislash-shield.png"
   },
   {
     "name": "aerodactyl",
-    "image": "https://i.postimg.cc/wBHcCc8h/received-1005997707204617.webp"
+    "image": "https://i.ibb.co/Lx4j9Vc/aerodactyl.png"
   },
   {
     "name": "aggron",
-    "image": "https://i.postimg.cc/nz947dvf/received-3505239733072922.webp"
+    "image": "https://i.ibb.co/XzMKRfX/aggron.png"
   },
   {
     "name": "aipom",
-    "image": "https://i.postimg.cc/wMT9ZrFS/received-789745449820182.webp"
+    "image": "https://i.ibb.co/GdszJ6V/aipom.png"
   },
   {
     "name": "alakazam",
-    "image": "https://i.postimg.cc/02nw6gLJ/received-251835347795809.webp"
+    "image": "https://i.ibb.co/ZLbCmXV/alakazam.png"
+  },
+  {
+    "name": "alcremie",
+    "image": "https://i.ibb.co/ZdfpQvp/alcremie.png"
   },
   {
     "name": "alomomola",
-    "image": "https://i.postimg.cc/Ghz79kGR/received-806341690959541.webp"
+    "image": "https://i.ibb.co/6rPSQ9d/alomomola.png"
   },
   {
     "name": "altaria",
-    "image": "https://i.postimg.cc/fTx3vKB4/received-1451522935626553.webp"
+    "image": "https://i.ibb.co/kqszVYs/altaria.png"
   },
   {
     "name": "amaura",
-    "image": "https://i.postimg.cc/K8ZvMRnZ/received-707764661160360.webp"
+    "image": "https://i.ibb.co/4dnQk6g/amaura.png"
   },
   {
     "name": "ambipom",
-    "image": "https://i.postimg.cc/tC9Hr87k/received-254430934067985.webp"
+    "image": "https://i.ibb.co/yyx18Qy/ambipom.png"
   },
   {
     "name": "amoonguss",
-    "image": "https://i.postimg.cc/G3JWszzy/received-1401449180587677.webp"
+    "image": "https://i.ibb.co/3MgS4jm/amoonguss.png"
   },
   {
     "name": "ampharos",
-    "image": "https://i.postimg.cc/dtYm7w9v/received-619432113667119.webp"
+    "image": "https://i.ibb.co/0MNWyFv/ampharos.png"
   },
   {
     "name": "anorith",
-    "image": "https://i.postimg.cc/dVvYSkmX/received-1507206876751850.webp"
+    "image": "https://i.ibb.co/8gPDzSv/anorith.png"
+  },
+  {
+    "name": "appletun",
+    "image": "https://i.ibb.co/sgRmt8p/appletun.png"
+  },
+  {
+    "name": "applin",
+    "image": "https://i.ibb.co/n81Jzks/applin.png"
   },
   {
     "name": "araquanid",
-    "image": "https://i.postimg.cc/mDq0y2hp/received-768426865080076.webp"
+    "image": "https://i.ibb.co/nRtXpDX/araquanid.png"
   },
   {
     "name": "arbok",
-    "image": "https://i.postimg.cc/tRWrMzc4/received-1000850137596424.webp"
+    "image": "https://i.ibb.co/YygM0WR/arbok.png"
   },
   {
     "name": "arcanine",
-    "image": "https://i.postimg.cc/5tzv2sLH/received-624958939432668.webp"
+    "image": "https://i.ibb.co/L5F39SZ/arcanine.png"
+  },
+  {
+    "name": "arceus-normal",
+    "image": "https://i.ibb.co/vYfHTCY/arceus-normal.png"
   },
   {
     "name": "archen",
-    "image": "https://i.postimg.cc/L687qtDm/received-192222637180378.webp"
+    "image": "https://i.ibb.co/gjrrKWf/archen.png"
   },
   {
     "name": "archeops",
-    "image": "https://i.postimg.cc/sDtggscc/received-1050213265974675.webp"
+    "image": "https://i.ibb.co/cYKZjf8/archeops.png"
+  },
+  {
+    "name": "arctovish",
+    "image": "https://i.ibb.co/z7RSTZS/arctovish.png"
+  },
+  {
+    "name": "arctozolt",
+    "image": "https://i.ibb.co/KqCs4hD/arctozolt.png"
   },
   {
     "name": "ariados",
-    "image": "https://i.postimg.cc/NjDG7mtN/received-666451051709103.webp"
+    "image": "https://i.ibb.co/LZ4RwGH/ariados.png"
   },
   {
     "name": "armaldo",
-    "image": "https://i.postimg.cc/MpFNSpm6/received-598785089116356.webp"
+    "image": "https://i.ibb.co/Wz3wtYt/armaldo.png"
   },
   {
     "name": "aromatisse",
-    "image": "https://i.postimg.cc/fTYC55Kc/received-1330471707897901.webp"
+    "image": "https://i.ibb.co/Pz3kGcZ/aromatisse.png"
   },
   {
     "name": "aron",
-    "image": "https://i.postimg.cc/g0cVNVZr/received-662974795732406.webp"
+    "image": "https://i.ibb.co/ftKBKWf/aron.png"
+  },
+  {
+    "name": "arrokuda",
+    "image": "https://i.ibb.co/CHJ0BmN/arrokuda.png"
   },
   {
     "name": "articuno",
-    "image": "https://i.postimg.cc/BnzSVs8D/received-553859226803273.webp"
+    "image": "https://i.ibb.co/2jZt1q4/articuno.png"
   },
   {
     "name": "audino",
-    "image": "https://i.postimg.cc/qMMpBgyy/received-137162366057422.webp"
+    "image": "https://i.ibb.co/TWZ12k9/audino.png"
   },
   {
     "name": "aurorus",
-    "image": "https://i.postimg.cc/wMW8RcLJ/received-985299299477091.webp"
+    "image": "https://i.ibb.co/cY6bbRs/aurorus.png"
   },
   {
     "name": "avalugg",
-    "image": "https://i.postimg.cc/T1NF32vJ/received-787224789876603.webp"
+    "image": "https://i.ibb.co/k9wVbN6/avalugg.png"
   },
   {
     "name": "axew",
-    "image": "https://i.postimg.cc/kXrGqydh/received-984627729346694.webp"
+    "image": "https://i.ibb.co/1KF85Jj/axew.png"
   },
   {
     "name": "azelf",
-    "image": "https://i.postimg.cc/Jz4VtrFy/received-3292016281095693.webp"
+    "image": "https://i.ibb.co/q98P3Bf/azelf.png"
   },
   {
     "name": "azumarill",
-    "image": "https://i.postimg.cc/QttqxQ8v/received-253350880827153.webp"
+    "image": "https://i.ibb.co/P4kCd17/azumarill.png"
   },
   {
     "name": "azurill",
-    "image": "https://i.postimg.cc/6QxfZZRH/received-2264290243781909.webp"
+    "image": "https://i.ibb.co/KFf0gK3/azurill.png"
   },
   {
     "name": "bagon",
-    "image": "https://i.postimg.cc/SRZRQ9K1/received-327854479575491.webp"
+    "image": "https://i.ibb.co/B349fqw/bagon.png"
   },
   {
     "name": "baltoy",
-    "image": "https://i.postimg.cc/rwDq40ct/received-826064725581636.webp"
+    "image": "https://i.ibb.co/V2SFLrk/baltoy.png"
   },
   {
     "name": "banette",
-    "image": "https://i.postimg.cc/mZqG4VZf/received-599262149050348.webp"
+    "image": "https://i.ibb.co/cTN4wzD/banette.png"
   },
   {
     "name": "barbaracle",
-    "image": "https://i.postimg.cc/MZ9GWptL/received-673305297998375.webp"
+    "image": "https://i.ibb.co/gtB3ZfV/barbaracle.png"
   },
   {
     "name": "barboach",
-    "image": "https://i.postimg.cc/YS9z3658/received-753114953236681.webp"
-  },
-  	{
-	"name": "bastiodon",
-	"image": "https://i.postimg.cc/h4Jx33zk/received-1007170123750163.webp"
-},
-{
-	"name": "bayleef",
-	"image": "https://i.postimg.cc/fWKLCc5G/received-583951930445606.webp"
-},
-{
-	"name": "beartic",
-	"image": "https://i.postimg.cc/ZY7m0Vw5/received-316171580870161.webp"
-},
-{
-	"name": "beautifly",
-	"image": "https://i.postimg.cc/d1hbCKHQ/received-853454969533643.webp"
-},
-{
-	"name": "beedrill",
-	"image": "https://i.postimg.cc/FHPCVBJY/received-308301091562449.webp"
-},
-{
-	"name": "beheeyem",
-	"image": "https://i.postimg.cc/d1FCkqtr/received-801879931672442.webp"
-},
-{
-	"name": "beldum",
-	"image": "https://i.postimg.cc/SNHJYygR/received-604318368463057.webp"
-},
-{
-	"name": "bellossom",
-	"image": "https://i.postimg.cc/76bkNz6k/received-1310571439887885.webp"
-},
-{
-	"name": "bellsprout",
-	"image": "https://i.postimg.cc/CxYdsvVp/received-1473312456775434.webp"
-},
-{
-	"name": "bergmite",
-	"image": "https://i.postimg.cc/MZQT2k68/received-3595210137418675.webp"
-},
-{
-	"name": "bewear",
-	"image": "https://i.postimg.cc/Yq8BT8WH/received-3638935542984662.webp"
-},
-{
-	"name": "bibarel",
-	"image": "https://i.postimg.cc/9QzKK22d/received-987082765942823.webp"
-},
-{
-	"name": "bidoof",
-	"image": "https://i.postimg.cc/9QzKK22d/received-987082765942823.webp"
-},
-{
-	"name": "binacle",
-	"image": "https://i.postimg.cc/0jTcbzrx/received-833175714841455.webp"
-},
-{
-	"name": "bisharp",
-	"image": "https://i.postimg.cc/8CfdrpQz/received-305947768487490.webp"
-},
-{
-	"name": "blacephalon",
-	"image": "https://i.postimg.cc/Y93vvZ9S/received-776340917825752.webp"
-},
-{
-	"name": "blastoise",
-	"image": "https://i.postimg.cc/Qt0M8749/received-599484889029533.webp"
-},
-{
-	"name": "blaziken",
-	"image": "https://i.postimg.cc/fbMZVL0x/received-1332557347686556.webp"
-},
-{
-	"name": "blissey",
-	"image": "https://i.postimg.cc/mZYvHRBj/received-663003829085228.webp"
-},
-{
-	"name": "blitzle",
-	"image": "https://i.postimg.cc/MGYBBv3x/received-797955605149501.webp"
-},
-{
-	"name": "boldore",
-	"image": "https://i.postimg.cc/XJm9jtDy/received-3469587113328867.webp"
-},
-{
-	"name": "bonsly",
-	"image": "https://i.postimg.cc/6qBtvpSs/received-669780415023320.webp"
-},
-{
-	"name": "bouffalant",
-	"image": "https://i.postimg.cc/sgbzJc84/received-295970002953587.webp"
-},
-{
-	"name": "bounsweet",
-	"image": "https://i.postimg.cc/ZRcXXFfg/received-3411243922522721.webp"
-},
-{
-	"name": "braixen",
-	"image": "https://i.postimg.cc/xdV7CFhh/received-257803867048232.webp"
-},
-  {
-	"name": "arceus",
-	"image": "https://i.postimg.cc/zBBvRxwn/received-634273638800041.webp"
-},
-   {
-    "name": "zapdos",
-    "image": "https://i.postimg.cc/kXL62k9n/received-246525271534177.webp"
-  },
-{ 
-    "name": "moltres",
-    "image": "https://i.postimg.cc/027MJVND/received-673330004700007.webp" 
-},
-{ 
-  "name": "mewtwo",
-    "image": "https://i.postimg.cc/fLmdb2MB/received-745834010633600.webp"
-  },
-  { 
-    "name": "mew",
-    "image": "https://i.postimg.cc/QCGN8r1P/received-1389025838322068.webp"
-  },
-  { 
-    "name": "raikou",
-    "image": "https://i.postimg.cc/pd3RCtGT/received-280497554597647.webp"
+    "image": "https://i.ibb.co/xzcZMw0/barboach.png"
   },
   {
-    "name": "entei",
-    "image": "https://i.postimg.cc/hvcFZ49S/received-1491932691636645.webp"
-  },
-  { 
-    "name": "suicune",
-    "image": "https://i.postimg.cc/50WDj9Kw/received-1642899162855068.webp"
-  },
-  { 
-    "name": "lugia",
-    "image": "https://i.postimg.cc/d0KwY4Sq/received-328023506317088.webp"
+    "name": "barraskewda",
+    "image": "https://i.ibb.co/KFCD80t/barraskewda.png"
   },
   {
-    "name": "ho-oh",
-    "image": "https://i.postimg.cc/1t4VnPg3/received-682682270523099.webp"
+    "name": "basculin-red-striped",
+    "image": "https://i.ibb.co/N3zM18V/basculin-red-striped.png"
   },
-  { 
+  {
+    "name": "bastiodon",
+    "image": "https://i.ibb.co/qBZLtHW/bastiodon.png"
+  },
+  {
+    "name": "bayleef",
+    "image": "https://i.ibb.co/NWCTLSh/bayleef.png"
+  },
+  {
+    "name": "beartic",
+    "image": "https://i.ibb.co/tpFmTRL/beartic.png"
+  },
+  {
+    "name": "beautifly",
+    "image": "https://i.ibb.co/k6tSHSS/beautifly.png"
+  },
+  {
+    "name": "beedrill",
+    "image": "https://i.ibb.co/ZhK7Sbk/beedrill.png"
+  },
+  {
+    "name": "beheeyem",
+    "image": "https://i.ibb.co/4mVw3v8/beheeyem.png"
+  },
+  {
+    "name": "beldum",
+    "image": "https://i.ibb.co/C0Cj2Jm/beldum.png"
+  },
+  {
+    "name": "bellossom",
+    "image": "https://i.ibb.co/YWdRLG4/bellossom.png"
+  },
+  {
+    "name": "bellsprout",
+    "image": "https://i.ibb.co/3vjdgZQ/bellsprout.png"
+  },
+  {
+    "name": "bergmite",
+    "image": "https://i.ibb.co/sC16NFM/bergmite.png"
+  },
+  {
+    "name": "bewear",
+    "image": "https://i.ibb.co/HrCScP7/bewear.png"
+  },
+  {
+    "name": "bibarel",
+    "image": "https://i.ibb.co/hynrYxR/bibarel.png"
+  },
+  {
+    "name": "bidoof",
+    "image": "https://i.ibb.co/grdYtLM/bidoof.png"
+  },
+  {
+    "name": "binacle",
+    "image": "https://i.ibb.co/74LGM2H/binacle.png"
+  },
+  {
+    "name": "bisharp",
+    "image": "https://i.ibb.co/Wt22695/bisharp.png"
+  },
+  {
+    "name": "blacephalon",
+    "image": "https://i.ibb.co/wMQxsbk/blacephalon.png"
+  },
+  {
+    "name": "blastoise",
+    "image": "https://i.ibb.co/HPhxW7C/blastoise.png"
+  },
+  {
+    "name": "blaziken",
+    "image": "https://i.ibb.co/CPkPk7r/blaziken.png"
+  },
+  {
+    "name": "blipbug",
+    "image": "https://i.ibb.co/FJSghNZ/blipbug.png"
+  },
+  {
+    "name": "blissey",
+    "image": "https://i.ibb.co/JkRJsxF/blissey.png"
+  },
+  {
+    "name": "blitzle",
+    "image": "https://i.ibb.co/FDc5PPx/blitzle.png"
+  },
+  {
+    "name": "boldore",
+    "image": "https://i.ibb.co/dcHV7XW/boldore.png"
+  },
+  {
+    "name": "boltund",
+    "image": "https://i.ibb.co/7jqSjWx/boltund.png"
+  },
+  {
+    "name": "bonsly",
+    "image": "https://i.ibb.co/6N3tVrC/bonsly.png"
+  },
+  {
+    "name": "bouffalant",
+    "image": "https://i.ibb.co/NKLtXs8/bouffalant.png"
+  },
+  {
+    "name": "bounsweet",
+    "image": "https://i.ibb.co/1qVpF5X/bounsweet.png"
+  },
+  {
+    "name": "braixen",
+    "image": "https://i.ibb.co/pXrw0LP/braixen.png"
+  },
+  {
+    "name": "braviary",
+    "image": "https://i.ibb.co/sQgjvNv/braviary.png"
+  },
+  {
+    "name": "breloom",
+    "image": "https://i.ibb.co/84dFG7q/breloom.png"
+  },
+  {
+    "name": "brionne",
+    "image": "https://i.ibb.co/nmKvsmQ/brionne.png"
+  },
+  {
+    "name": "bronzong",
+    "image": "https://i.ibb.co/zVjVzbg/bronzong.png"
+  },
+  {
+    "name": "bronzor",
+    "image": "https://i.ibb.co/fQrDfZm/bronzor.png"
+  },
+  {
+    "name": "bruxish",
+    "image": "https://i.ibb.co/MVTbh7B/bruxish.png"
+  },
+  {
+    "name": "budew",
+    "image": "https://i.ibb.co/VWT5mHt/budew.png"
+  },
+  {
+    "name": "buizel",
+    "image": "https://i.ibb.co/vXrKhMb/buizel.png"
+  },
+  {
+    "name": "bulbasaur",
+    "image": "https://i.ibb.co/XjTH8yz/bulbasaur.png"
+  },
+  {
+    "name": "buneary",
+    "image": "https://i.ibb.co/hVWTFFH/buneary.png"
+  },
+  {
+    "name": "bunnelby",
+    "image": "https://i.ibb.co/s9cnnn5/bunnelby.png"
+  },
+  {
+    "name": "burmy-plant",
+    "image": "https://i.ibb.co/XymJMCd/burmy-plant.png"
+  },
+  {
+    "name": "butterfree",
+    "image": "https://i.ibb.co/jDRtChz/butterfree.png"
+  },
+  {
+    "name": "buzzwole",
+    "image": "https://i.ibb.co/4jKR4Qk/buzzwole.png"
+  },
+  {
+    "name": "cacnea",
+    "image": "https://i.ibb.co/GHyh19C/cacnea.png"
+  },
+  {
+    "name": "cacturne",
+    "image": "https://i.ibb.co/mRdLwYw/cacturne.png"
+  },
+  {
+    "name": "calyrex",
+    "image": "https://i.ibb.co/vDDnNbZ/calyrex.png"
+  },
+  {
+    "name": "camerupt",
+    "image": "https://i.ibb.co/jkHYm1x/camerupt.png"
+  },
+  {
+    "name": "carbink",
+    "image": "https://i.ibb.co/5KSgk1R/carbink.png"
+  },
+  {
+    "name": "carkol",
+    "image": "https://i.ibb.co/Jq909fD/carkol.png"
+  },
+  {
+    "name": "carnivine",
+    "image": "https://i.ibb.co/xDH0TJC/carnivine.png"
+  },
+  {
+    "name": "carracosta",
+    "image": "https://i.ibb.co/VWBBdw6/carracosta.png"
+  },
+  {
+    "name": "carvanha",
+    "image": "https://i.ibb.co/LxgsF85/carvanha.png"
+  },
+  {
+    "name": "cascoon",
+    "image": "https://i.ibb.co/RYMjz4W/cascoon.png"
+  },
+  {
+    "name": "castform",
+    "image": "https://i.ibb.co/tpbyPdS/castform.png"
+  },
+  {
+    "name": "caterpie",
+    "image": "https://i.ibb.co/XjXZMG3/caterpie.png"
+  },
+  {
     "name": "celebi",
-    "image": "https://i.postimg.cc/PqYDkJ9M/received-820834516214733.webp"
-  },
-  { 
-    "name": "regirock",
-    "image": "https://i.postimg.cc/J0nttz6v/received-259994636810299.webp"
-  },
-  { 
-    "name": "regice",
-    "image": "https://i.postimg.cc/XqmNJcyB/received-3235905206553376.webp"
-  },
-  { 
-    "name": "registeel",
-    "image": "https://i.postimg.cc/nzLnGw4Q/received-240782478860751.webp"
+    "image": "https://i.ibb.co/BKgKymN/celebi.png"
   },
   {
-    "name": "rayquaza",
-    "image": "https://i.postimg.cc/pVwn0pcf/received-1708579562940563.webp"
-  },
-    {
-    "name": "latios",
-    "image": "https://i.postimg.cc/g0bjhqyb/received-112626841923925.webp"
+    "name": "celesteela",
+    "image": "https://i.ibb.co/60hffBZ/celesteela.png"
   },
   {
-    "name": "latias",
-    "image": "https://i.postimg.cc/76hYSBRh/received-108909458952492.webp"
+    "name": "centiskorch",
+    "image": "https://i.ibb.co/jL1sz2r/centiskorch.png"
   },
   {
-    "name": "kyogre",
-    "image": "https://i.postimg.cc/tRLWCP1W/received-2729983160494329.webp"
+    "name": "chandelure",
+    "image": "https://i.ibb.co/LpCvHbj/chandelure.png"
   },
   {
-    "name": "groudon",
-    "image": "https://i.postimg.cc/RVBhDT6s/received-2226815470846760.webp"
+    "name": "chansey",
+    "image": "https://i.ibb.co/z8XRMB2/chansey.png"
   },
   {
-  	"name": "jirachi",
-  	"image": "https://i.postimg.cc/7Zmd4CRc/received-1288480935367925.webp"
+    "name": "charizard",
+    "image": "https://i.ibb.co/vB9tCLP/charizard.png"
   },
   {
-  	"name": "deoxys",
-  	"image": "https://i.postimg.cc/DwSz1GZk/received-799049331964134.webp"
+    "name": "charjabug",
+    "image": "https://i.ibb.co/zNGY8rn/charjabug.png"
   },
   {
-  	"name": "uxie",
-  	"image": "https://i.postimg.cc/xCdjCQW0/received-1489993945148493.webp"
+    "name": "charmander",
+    "image": "https://i.ibb.co/98CkZ78/charmander.png"
   },
   {
-  	"name": "mesprit",
-  	"image": "https://i.postimg.cc/rs4zX2Fn/received-3676634519328051.webp"
+    "name": "charmeleon",
+    "image": "https://i.ibb.co/SQdgJft/charmeleon.png"
   },
   {
-  	"name": "dialga",
-  	"image": "https://i.postimg.cc/wTzqyhKf/received-635248528370287.webp"
+    "name": "chatot",
+    "image": "https://i.ibb.co/GWFbdy3/chatot.png"
   },
   {
-  	"name": "palkia",
-  	"image": "https://i.postimg.cc/VLzwLmM2/received-820310566160974.webp"
+    "name": "cherrim-overcast",
+    "image": "https://i.ibb.co/ZdFcbTM/cherrim-overcast.png"
   },
   {
-  	"name": "giratina",
-  	"image": "https://i.postimg.cc/s2Cct3j8/received-806358454371023.webp"
+    "name": "cherubi",
+    "image": "https://i.ibb.co/LvswLKH/cherubi.png"
   },
   {
-  	"name": "heatran",
-  	"image": "https://i.postimg.cc/yYS0B2bz/received-1285618565647882.webp"
+    "name": "chesnaught",
+    "image": "https://i.ibb.co/0qXPBkk/chesnaught.png"
   },
   {
-  	"name": "cresselia",
-  	"image": "https://i.postimg.cc/mZPmzX5m/received-1241719926490381.webp"
+    "name": "chespin",
+    "image": "https://i.ibb.co/zZpkTwJ/chespin.png"
   },
   {
-  	"name": "darkrai",
-  	"image": "https://i.postimg.cc/02pdDLd0/received-824842452643766.webp"
+    "name": "chewtle",
+    "image": "https://i.ibb.co/61HVzBq/chewtle.png"
   },
   {
-  	"name": "manaphy",
-  	"image": "https://i.postimg.cc/1zg8cF11/received-1760890777665415.webp"
+    "name": "chikorita",
+    "image": "https://i.ibb.co/CvPGChT/chikorita.png"
   },
   {
-  	"name": "phione",
-  	"image": "https://i.postimg.c
+    "name": "chimchar",
+    "image": "https://i.ibb.co/jMgtRLq/chimchar.png"
+  },
+  {
+    "name": "chimecho",
+    "image": "https://i.ibb.co/HhLTjm7/chimecho.png"
+  },
+  {
+    "name": "chinchou",
+    "image": "https://i.ibb.co/1dCpXmd/chinchou.png"
+  },
+  {
+    "name": "chingling",
+    "image": "https://i.ibb.co/PWNKQpG/chingling.png"
+  },
+  {
+    "name": "cinccino",
+    "image": "https://i.ibb.co/2PJkxVb/cinccino.png"
+  },
+  {
+    "name": "cinderace",
+    "image": "https://i.ibb.co/z2mxQpg/cinderace.png"
+  },
+  {
+    "name": "clamperl",
+    "image": "https://i.ibb.co/WP4cFDc/clamperl.png"
+  },
+  {
+    "name": "clauncher",
+    "image": "https://i.ibb.co/qMHTr1n/clauncher.png"
+  },
+  {
+    "name": "clawitzer",
+    "image": "https://i.ibb.co/DGWjCLr/clawitzer.png"
+  },
+  {
+    "name": "claydol",
+    "image": "https://i.ibb.co/GQ1zHvd/claydol.png"
+  },
+  {
+    "name": "clefable",
+    "image": "https://i.ibb.co/KWwr0P1/clefable.png"
+  },
+  {
+    "name": "clefairy",
+    "image": "https://i.ibb.co/zrT04kq/clefairy.png"
+  },
+  {
+    "name": "cleffa",
+    "image": "https://i.ibb.co/ydGY60y/cleffa.png"
+  },
+  {
+    "name": "clobbopus",
+    "image": "https://i.ibb.co/qJ4HP75/clobbopus.png"
+  },
+  {
+    "name": "cloyster",
+    "image": "https://i.ibb.co/HNbH4c7/cloyster.png"
+  },
+  {
+    "name": "coalossal",
+    "image": "https://i.ibb.co/RBjMX7x/coalossal.png"
+  },
+  {
+    "name": "cobalion",
+    "image": "https://i.ibb.co/xM758M1/cobalion.png"
+  },
+  {
+    "name": "cofagrigus",
+    "image": "https://i.ibb.co/vLSWbn3/cofagrigus.png"
+  },
+  {
+    "name": "combee",
+    "image": "https://i.ibb.co/162pyrj/combee.png"
+  },
+  {
+    "name": "combusken",
+    "image": "https://i.ibb.co/fN0TCYV/combusken.png"
+  },
+  {
+    "name": "comfey",
+    "image": "https://i.ibb.co/54pB8Mx/comfey.png"
+  },
+  {
+    "name": "conkeldurr",
+    "image": "https://i.ibb.co/KqtVf74/conkeldurr.png"
+  },
+  {
+    "name": "copperajah",
+    "image": "https://i.ibb.co/6BgRjnZ/copperajah.png"
+  },
+  {
+    "name": "corphish",
+    "image": "https://i.ibb.co/n80dhNq/corphish.png"
+  },
+  {
+    "name": "corsola",
+    "image": "https://i.ibb.co/gym9x0P/corsola.png"
+  },
+  {
+    "name": "corviknight",
+    "image": "https://i.ibb.co/Jy8y0Qr/corviknight.png"
+  },
+  {
+    "name": "corvisquire",
+    "image": "https://i.ibb.co/GRmWn49/corvisquire.png"
+  },
+  {
+    "name": "cosmoem",
+    "image": "https://i.ibb.co/P1YsZXQ/cosmoem.png"
+  },
+  {
+    "name": "cosmog",
+    "image": "https://i.ibb.co/k3T10d3/cosmog.png"
+  },
+  {
+    "name": "cottonee",
+    "image": "https://i.ibb.co/rbT42CQ/cottonee.png"
+  },
+  {
+    "name": "crabominable",
+    "image": "https://i.ibb.co/JKTdtrc/crabominable.png"
+  },
+  {
+    "name": "crabrawler",
+    "image": "https://i.ibb.co/YRYM05b/crabrawler.png"
+  },
+  {
+    "name": "cradily",
+    "image": "https://i.ibb.co/bWBLSZQ/cradily.png"
+  },
+  {
+    "name": "cramorant",
+    "image": "https://i.ibb.co/2FrssPc/cramorant.png"
+  },
+  {
+    "name": "cranidos",
+    "image": "https://i.ibb.co/sJ2fKJm/cranidos.png"
+  },
+  {
+    "name": "crawdaunt",
+    "image": "https://i.ibb.co/WDCFRW7/crawdaunt.png"
+  },
+  {
+    "name": "cresselia",
+    "image": "https://i.ibb.co/3FXv89g/cresselia.png"
+  },
+  {
+    "name": "croagunk",
+    "image": "https://i.ibb.co/SKrg4Mc/croagunk.png"
+  },
+  {
+    "name": "crobat",
+    "image": "https://i.ibb.co/XFRwWTc/crobat.png"
+  },
+  {
+    "name": "croconaw",
+    "image": "https://i.ibb.co/TtyJNSd/croconaw.png"
+  },
+  {
+    "name": "crustle",
+    "image": "https://i.ibb.co/GPbtK8q/crustle.png"
+  },
+  {
+    "name": "cryogonal",
+    "image": "https://i.ibb.co/fpCscgZ/cryogonal.png"
+  },
+  {
+    "name": "cubchoo",
+    "image": "https://i.ibb.co/Pjn1GwP/cubchoo.png"
+  },
+  {
+    "name": "cubone",
+    "image": "https://i.ibb.co/GHGstKL/cubone.png"
+  },
+  {
+    "name": "cufant",
+    "image": "https://i.ibb.co/gSLMBrK/cufant.png"
+  },
+  {
+    "name": "cursola",
+    "image": "https://i.ibb.co/3Mdkr25/cursola.png"
+  },
+  {
+    "name": "cutiefly",
+    "image": "https://i.ibb.co/gPkP3yx/cutiefly.png"
+  },
+  {
+    "name": "cyndaquil",
+    "image": "https://i.ibb.co/nzX0dSR/cyndaquil.png"
+  },
+  {
+    "name": "darkrai",
+    "image": "https://i.ibb.co/c8Df1FZ/darkrai.png"
+  },
+  {
+    "name": "darmanitan-standard",
+    "image": "https://i.ibb.co/5T1Tmkw/darmanitan-standard.png"
+  },
+  {
+    "name": "dartrix",
+    "image": "https://i.ibb.co/5GNkZNx/dartrix.png"
+  },
+  {
+    "name": "darumaka",
+    "image": "https://i.ibb.co/jkxMDZG/darumaka.png"
+  },
+  {
+    "name": "decidueye",
+    "image": "https://i.ibb.co/6mHwNfJ/decidueye.png"
+  },
+  {
+    "name": "dedenne",
+    "image": "https://i.ibb.co/kSwhqC7/dedenne.png"
+  },
+  {
+    "name": "deerling-spring",
+    "image": "https://i.ibb.co/XLbpSWx/deerling-spring.png"
+  },
+  {
+    "name": "deino",
+    "image": "https://i.ibb.co/0yxFBWN/deino.png"
+  },
+  {
+    "name": "delcatty",
+    "image": "https://i.ibb.co/9NTvydK/delcatty.png"
+  },
+  {
+    "name": "delibird",
+    "image": "https://i.ibb.co/R2k81ZH/delibird.png"
+  },
+  {
+    "name": "delphox",
+    "image": "https://i.ibb.co/jLHGdB3/delphox.png"
+  },
+  {
+    "name": "deoxys-normal",
+    "image": "https://i.ibb.co/PxKxT3r/deoxys-normal.png"
+  },
+  {
+    "name": "dewgong",
+    "image": "https://i.ibb.co/ChQS4zf/dewgong.png"
+  },
+  {
+    "name": "dewott",
+    "image": "https://i.ibb.co/NrLY604/dewott.png"
+  },
+  {
+    "name": "dewpider",
+    "image": "https://i.ibb.co/5Bp91fZ/dewpider.png"
+  },
+  {
+    "name": "dhelmise",
+    "image": "https://i.ibb.co/0BkwyCR/dhelmise.png"
+  },
+  {
+    "name": "dialga",
+    "image": "https://i.ibb.co/mvf7QtW/dialga.png"
+  },
+  {
+    "name": "diancie",
+    "image": "https://i.ibb.co/LQWPMmv/diancie.png"
+  },
+  {
+    "name": "diggersby",
+    "image": "https://i.ibb.co/MMZF6jb/diggersby.png"
+  },
+  {
+    "name": "diglett",
+    "image": "https://i.ibb.co/TKJDBXm/diglett.png"
+  },
+  {
+    "name": "ditto",
+    "image": "https://i.ibb.co/tZ5YmvX/ditto.png"
+  },
+  {
+    "name": "dodrio",
+    "image": "https://i.ibb.co/Zf7735W/dodrio.png"
+  },
+  {
+    "name": "doduo",
+    "image": "https://i.ibb.co/xh6KW65/doduo.png"
+  },
+  {
+    "name": "donphan",
+    "image": "https://i.ibb.co/JqJX72n/donphan.png"
+  },
+  {
+    "name": "dottler",
+    "image": "https://i.ibb.co/BC0cJns/dottler.png"
+  },
+  {
+    "name": "doublade",
+    "image": "https://i.ibb.co/p4nQwMN/doublade.png"
+  },
+  {
+    "name": "dracovish",
+    "image": "https://i.ibb.co/1L4hs6B/dracovish.png"
+  },
+  {
+    "name": "dracozolt",
+    "image": "https://i.ibb.co/SXjyt2G/dracozolt.png"
+  },
+  {
+    "name": "dragalge",
+    "image": "https://i.ibb.co/LgL4gMc/dragalge.png"
+  },
+  {
+    "name": "dragapult",
+    "image": "https://i.ibb.co/k2wLytf/dragapult.png"
+  },
+  {
+    "name": "dragonair",
+    "image": "https://i.ibb.co/gy0jJ1V/dragonair.png"
+  },
+  {
+    "name": "dragonite",
+    "image": "https://i.ibb.co/YZ254cL/dragonite.png"
+  },
+  {
+    "name": "drakloak",
+    "image": "https://i.ibb.co/BrfV8Y1/drakloak.png"
+  },
+  {
+    "name": "drampa",
+    "image": "https://i.ibb.co/0V6cv4C/drampa.png"
+  },
+  {
+    "name": "drapion",
+    "image": "https://i.ibb.co/84w78RS/drapion.png"
+  },
+  {
+    "name": "dratini",
+    "image": "https://i.ibb.co/2MYLzXZ/dratini.png"
+  },
+  {
+    "name": "drednaw",
+    "image": "https://i.ibb.co/6WzGBBm/drednaw.png"
+  },
+  {
+    "name": "dreepy",
+    "image": "https://i.ibb.co/pXWbcnf/dreepy.png"
+  },
+  {
+    "name": "drifblim",
+    "image": "https://i.ibb.co/rkBycjk/drifblim.png"
+  },
+  {
+    "name": "drifloon",
+    "image": "https://i.ibb.co/mFGP6St/drifloon.png"
+  },
+  {
+    "name": "drilbur",
+    "image": "https://i.ibb.co/pX92Gjr/drilbur.png"
+  },
+  {
+    "name": "drizzile",
+    "image": "https://i.ibb.co/Jzcp2Cq/drizzile.png"
+  },
+  {
+    "name": "drowzee",
+    "image": "https://i.ibb.co/qyQKLvs/drowzee.png"
+  },
+  {
+    "name": "druddigon",
+    "image": "https://i.ibb.co/4tVRCfW/druddigon.png"
+  },
+  {
+    "name": "dubwool",
+    "image": "https://i.ibb.co/QJFnBCG/dubwool.png"
+  },
+  {
+    "name": "ducklett",
+    "image": "https://i.ibb.co/kGDBQ2b/ducklett.png"
+  },
+  {
+    "name": "dugtrio",
+    "image": "https://i.ibb.co/dm7T4Wk/dugtrio.png"
+  },
+  {
+    "name": "dunsparce",
+    "image": "https://i.ibb.co/Jj62CSY/dunsparce.png"
+  },
+  {
+    "name": "duosion",
+    "image": "https://i.ibb.co/1TkB2kg/duosion.png"
+  },
+  {
+    "name": "duraludon",
+    "image": "https://i.ibb.co/KzQCh0H/duraludon.png"
+  },
+  {
+    "name": "durant",
+    "image": "https://i.ibb.co/52y8myW/durant.png"
+  },
+  {
+    "name": "dusclops",
+    "image": "https://i.ibb.co/7gHnBq4/dusclops.png"
+  },
+  {
+    "name": "dusknoir",
+    "image": "https://i.ibb.co/yNqcJYp/dusknoir.png"
+  },
+  {
+    "name": "duskull",
+    "image": "https://i.ibb.co/Pw0vH2N/duskull.png"
+  },
+  {
+    "name": "dustox",
+    "image": "https://i.ibb.co/vhpPyxN/dustox.png"
+  },
+  {
+    "name": "dwebble",
+    "image": "https://i.ibb.co/QDRmRVh/dwebble.png"
+  },
+  {
+    "name": "eelektrik",
+    "image": "https://i.ibb.co/5K3gkfx/eelektrik.png"
+  },
+  {
+    "name": "eelektross",
+    "image": "https://i.ibb.co/bb5GrwM/eelektross.png"
+  },
+  {
+    "name": "eevee",
+    "image": "https://i.ibb.co/FsmwHxF/eevee.png"
+  },
+  {
+    "name": "eiscue-ice",
+    "image": "https://i.ibb.co/qJmccSm/eiscue-ice.png"
+  },
+  {
+    "name": "ekans",
+    "image": "https://i.ibb.co/6Ykr7v9/ekans.png"
+  },
+  {
+    "name": "eldegoss",
+    "image": "https://i.ibb.co/b1LJ0kW/eldegoss.png"
+  },
+  {
+    "name": "electabuzz",
+    "image": "https://i.ibb.co/9sGNkPp/electabuzz.png"
+  },
+  {
+    "name": "electivire",
+    "image": "https://i.ibb.co/ZJ4R4wt/electivire.png"
+  },
+  {
+    "name": "electrike",
+    "image": "https://i.ibb.co/rxwzC9D/electrike.png"
+  },
+  {
+    "name": "electrode",
+    "image": "https://i.ibb.co/Cn3JTks/electrode.png"
+  },
+  {
+    "name": "elekid",
+    "image": "https://i.ibb.co/Tw1DWsk/elekid.png"
+  },
+  {
+    "name": "elgyem",
+    "image": "https://i.ibb.co/Vw1s7wg/elgyem.png"
+  },
+  {
+    "name": "emboar",
+    "image": "https://i.ibb.co/y8HtzBc/emboar.png"
