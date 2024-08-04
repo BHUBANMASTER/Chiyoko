@@ -18,7 +18,7 @@
         const UpolUptime = `${hour}hrs : ${minute}mins : ${second}secs`;
         const timeStart = Date.now();
         const ping = Date.now() - timeStart;
-        const BotName = '乃卂几Ҝ卂| 卂|';
+        const BotName = '𝘾𝙝𝙞𝙮𝙤𝙠𝙤';
         const totalThreads = await threadsData.getAll();
         const totalUsers = await usersData.getAll();
         const usersCount = totalUsers.length;
