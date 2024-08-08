@@ -5,7 +5,7 @@ if (!global.temp.welcomeEvent)
 module.exports = {
 	config: {
 		name: "welcome",
-		version: "1.7",
+		version: "1.5",
 		author: "NTKhang",
 		category: "events"
 	},
@@ -22,14 +22,14 @@ module.exports = {
 			defaultWelcomeMessage: "Xin chào {userName}.\nChào mừng bạn đến với {boxName}.\nChúc bạn có buổi {session} vui vẻ!"
 		},
 		en: {
-			session1: "morning",
-			session2: "noon",
-			session3: "afternoon",
-			session4: "evening",
-			welcomeMessage: "Thank you for inviting me to the group!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
+			session1: "𝘔𝘰𝘳𝘯𝘪𝘯𝘨",
+			session2: "𝘕𝘰𝘰𝘯",
+			session3: "𝘈𝘧𝘵𝘦𝘳𝘯𝘰𝘰𝘯",
+			session4: "𝘌𝘷𝘦𝘯𝘪𝘯𝘨",
+			welcomeMessage: "𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙞𝙣𝙫𝙞𝙩𝙞𝙣𝙜 𝙢𝙚 𝙩𝙤 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙥!\n\n 𝘽𝙤𝙩 𝙥𝙧𝙚𝙛𝙞𝙭: %1\n𝙏𝙤 𝙫𝙞𝙚𝙬 𝙩𝙝𝙚 𝙡𝙞𝙨𝙩 𝙤𝙛 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨, 𝙥𝙡𝙚𝙖𝙨𝙚 𝙚𝙣𝙩𝙚𝙧: %1help 🌝",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `Hello {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊`
+			defaultWelcomeMessage: `𝔸𝕤𝕤𝕒𝕝𝕒𝕞𝕦~𝔸𝕝𝕒𝕚𝕜𝕦𝕞 {userName}.\n 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝚃𝚘 𝚘𝚞𝚛 𝙵𝚊𝚖𝚒𝚕𝚢: {boxName}\n\n𝙃𝙖𝙫𝙚 𝙖 𝙣𝙞𝙘𝙚 {session} 😊`
 		}
 	},
 
@@ -54,18 +54,15 @@ module.exports = {
 						dataAddedParticipants: []
 					};
 
-				// push new member to array
 				global.temp.welcomeEvent[threadID].dataAddedParticipants.push(...dataAddedParticipants);
-				// if timeout is set, clear it
 				clearTimeout(global.temp.welcomeEvent[threadID].joinTimeout);
 
-				// set new timeout
 				global.temp.welcomeEvent[threadID].joinTimeout = setTimeout(async function () {
+					const dataAddedParticipants = global.temp.welcomeEvent[threadID].dataAddedParticipants;
 					const threadData = await threadsData.get(threadID);
+					const dataBanned = threadData.data.banned_ban || [];
 					if (threadData.settings.sendWelcomeMessage == false)
 						return;
-					const dataAddedParticipants = global.temp.welcomeEvent[threadID].dataAddedParticipants;
-					const dataBanned = threadData.data.banned_ban || [];
 					const threadName = threadData.threadName;
 					const userName = [],
 						mentions = [];
